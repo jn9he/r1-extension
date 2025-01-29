@@ -9,6 +9,8 @@ This code implements DeepSeek r1 locally, using Ollama.
 ## Requirements
 
 npx --package yo --package generator-code -- yo code
+
+
 npm install ollama
 
 
