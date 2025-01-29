@@ -1,6 +1,6 @@
 # deepseek-ext README
 
-DeepSeek r1 1.5b VsCode extension "deepseek-ext".
+DeepSeek r1 1.5b VsCode extension "deepseek-ext". See src/extension.ts
 
 ![Screenshot 2025-01-28 224729](https://github.com/user-attachments/assets/196d0fb0-12b4-4b8e-b481-3b1f54c885a7)
 
