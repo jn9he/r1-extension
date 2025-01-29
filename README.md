@@ -2,7 +2,7 @@
 
 DeepSeek r1 1.5b VsCode extension "deepseek-ext".
 
-![](Screenshot 2025-01-28 224729.png)
+![alt text](Screenshot 2025-01-28 224729.png)
 
 ## Features
 
