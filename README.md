@@ -6,7 +6,7 @@ DeepSeek r1 1.5b VsCode extension "deepseek-ext".
 
 ## Features
 
-This code implements DeepSeek r1 locally, using Ollama. 
+Running DeepSeek r1 locally as a vscode extension, using Ollama. 
 
 ## Requirements
 
